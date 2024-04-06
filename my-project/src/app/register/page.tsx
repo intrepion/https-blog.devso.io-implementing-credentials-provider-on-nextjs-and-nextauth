@@ -53,7 +53,7 @@ export default function Register() {
         </label>
         <button type="submit">Register User</button>
 
-        <Link href="/register">Register</Link>
+        <Link href="/">Login</Link>
       </form>
     </>
   );
